@@ -8,4 +8,4 @@ If you are planning to use a linux or Mac computer , then you may not need to in
 
 The script ik_motor_control.py should be used after connecting the platform to the computer. In this script , function named trajectories to be edited to track described trajectories. By default, there are multiple trajectories written already. Make sure to comment out the trajectories that are not required. If you are planning to add more trajectories, make sure this function returns the X,Y,Z and Alpha, Beta and Gamma of the trajectories in vector format. 
 
-
+<img src = 'https://github.com/shivakumar-tekumatla/Stewart-Platform-Inverse-Kinematics/blob/main/video%20gifs/XYZ%20motion.gif' >
